@@ -1,0 +1,17 @@
+body {
+ 
+  text-align:center;
+}
+
+#quote-box {
+  margin:auto;
+  display:flex;
+  width:450px;
+  max-height: 500px;
+  background-color: violet;
+  
+  margin-top: 10%;
+
+  padding:40px 50px;
+}
+
